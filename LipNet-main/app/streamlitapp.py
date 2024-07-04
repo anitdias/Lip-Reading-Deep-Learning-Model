@@ -14,7 +14,7 @@ st.set_page_config(layout='wide')
 with st.sidebar: 
     st.image('https://www.onepointltd.com/wp-content/uploads/2020/03/inno2.png')
     st.title('Lip Reading Deep Learning Model')
-    st.text('''Created By:\nAnit Dias\nJanhavi Sachdev\nAnkush Raj\nSaanvi Shetty''')
+    st.text('''Created By:\nAnit Dias\n''')
     
 
 st.title('Lip Reading Full Stack App') 
